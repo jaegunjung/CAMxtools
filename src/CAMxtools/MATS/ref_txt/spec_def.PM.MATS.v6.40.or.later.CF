@@ -1,0 +1,10 @@
+/new species    ,units           ,expression
+CM              ,microgram/m**3  ,CPRM[1]+CCRS[1]
+CRUSTAL         ,microgram/m**3  ,FPRM[1]+FCRS[1]
+NH4             ,microgram/m**3  ,PNH4[1]
+SO4             ,microgram/m**3  ,PSO4[1]
+EC              ,microgram/m**3  ,PEC[1]
+NO3             ,microgram/m**3  ,PNO3[1]
+OC              ,microgram/m**3  ,POA[1]+SOA1[1]+SOA2[1]+SOA3[1]+SOA4[1]+SOPA[1]+SOPB[1]
+PM25            ,microgram/m**3  ,PNO3[1]+PSO4[1]+PNH4[1]+POA[1]+SOA1[1]+SOA2[1]+SOA3[1]+SOA4[1]+SOPA[1]+SOPB[1]+PEC[1]+FPRM[1]+FCRS[1]+NA[1]+PCL[1]
+SALT            ,microgram/m**3  ,NA[1]+PCL[1]

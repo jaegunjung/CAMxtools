@@ -1,0 +1,10 @@
+/SOA is dropped from OM to be consistent with SA outputs
+/new species   ,units     ,expression
+NO2              ,ppm       ,NO2[1]/(RGN000IC[2]+RGN000BC[2]+RGN001001[2]+RGN002001[2]+RGN003001[2]+RGN004001[2]+RGN005001[2]+RGN006001[2])*(RGN001001[2])
+_NH4_2SO4        ,ug/m3     ,1.375*PS4001001[3]
+NH4NO3           ,ug/m3     ,1.29*PN3001001[3]
+EC               ,ug/m3     ,PEC001001[3]
+OM               ,ug/m3     ,POA001001[3]
+Soil             ,ug/m3     ,PFN001001[3]+PFC001001[3]
+CM               ,ug/m3     ,PCC001001[3]+PCS001001[3]
+SeaSalt          ,ug/m3     ,0.*NO2[0]

@@ -1,0 +1,7 @@
+/new species    ,units     ,expression
+O3            ,ppb  ,O3[1]*1000.
+O3BY          ,ppb  ,O3[1]*1000.
+O3BC          ,ppb  ,O3[1]*1000.*0.7
+O3A           ,ppb  ,O3[1]*1000.*0.1+PSO4[1]
+O3B           ,ppb  ,O3[1]*1000.*0.1+PNO3[1]
+O3FY          ,ppb  ,O3[1]*1000.*0.1+FCRS[1]

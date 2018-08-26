@@ -1,0 +1,13 @@
+
+< Install python and modules >
+1. Install Anaconda3: 
+  1.1 Go to https://www.continuum.io/downloads
+  1.2 Select Linux and download Python 3.x
+2. Install Pseudonetcdf: https://github.com/barronh/pseudonetcdf
+  2.1 pip install http://github.com/barronh/pseudonetcdf/archive/master.zip
+3. Install pandasql
+  3.1 pip install pandasql
+4. Install xarray
+  4.1 pip install xarray
+5. Install pytzwhere for the timezone processing
+  5.1  pip install https://github.com/pegler/pytzwhere/archive/master.zip

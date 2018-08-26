@@ -1,0 +1,158 @@
+Table 6,Annual Average Natural Conditions - Concentrations and Rayleigh Scattering By Class I Area
+Class_I_Area,(NH4)2SO4,NH4NO3,OM,EC,Soil,CM,Sea Salt,Rayleigh,Type 
+Acadia NP,0.23,0.1,1.67,0.02,0.25,2.14,0.14,12, Annual 
+Agua Tibia Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.14,11, Annual 
+Alpine Lakes Wilderness,0.12,0.1,0.6,0.02,0.23,1.3,0.06,11, Annual 
+Anaconda Pintler Wilderness,0.12,0.1,0.6,0.02,0.39,1.79,0.02,10, Annual 
+Ansel Adams Wilderness,0.12,0.1,0.58,0.02,0.46,2.88,0.03,9, Annual 
+Arches NP,0.12,0.1,0.6,0.02,0.5,2.92,0.01,9, Annual 
+Badlands NP,0.12,0.1,0.6,0.02,0.5,3,0.01,11, Annual 
+Bandelier NM,0.12,0.1,0.6,0.02,0.5,2.86,0.02,9, Annual 
+Bering Sea Wilderness,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Big Bend NP,0.12,0.1,0.6,0.02,0.5,3,0.03,10, Annual 
+Black Canyon of the Gunnison NP,0.12,0.1,0.6,0.02,0.49,2.59,0.01,9, Annual 
+Bob Marshall Wilderness,0.12,0.1,0.6,0.02,0.44,2.34,0.01,10, Annual 
+Bosque del Apache Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.04,10, Annual 
+Boundary Waters Canoe Area Wilderness,0.23,0.1,1.71,0.02,0.31,2.53,0.02,11, Annual 
+Breton Wilderness,0.23,0.1,1.78,0.02,0.48,3.01,0.19,11, Annual 
+Bridger Wilderness,0.12,0.1,0.6,0.02,0.44,1.88,0.01,9, Annual 
+Brigantine Wilderness,0.23,0.1,1.8,0.02,0.47,3,0.22,12, Annual 
+Bryce Canyon NP,0.12,0.1,0.6,0.02,0.5,2.87,0.01,9, Annual 
+Cabinet Mountains Wilderness,0.12,0.1,0.6,0.02,0.41,2.31,0.02,10, Annual 
+Caney Creek Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.03,11, Annual 
+Canyonlands NP,0.12,0.1,0.6,0.02,0.5,2.92,0.01,9, Annual 
+Cape Romain Wilderness,0.23,0.1,1.8,0.02,0.45,3,0.2,12, Annual 
+Capitol Reef NP,0.11,0.1,0.58,0.02,0.5,2.78,0,9, Annual 
+Caribou Wilderness,0.12,0.1,0.6,0.02,0.44,1.82,0.01,10, Annual 
+Carlsbad Caverns NP,0.12,0.1,0.6,0.02,0.5,3,0.02,9, Annual 
+Chassahowitzka Wilderness,0.23,0.1,1.81,0.02,0.5,3,0.08,11, Annual 
+Chiricahua NM,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Chiricahua Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Cohutta Wilderness,0.23,0.1,1.71,0.02,0.5,2.45,0.02,11, Annual 
+Crater Lake NP,0.12,0.1,0.6,0.02,0.39,1.67,0.02,9, Annual 
+Craters of the Moon NM,0.12,0.1,0.6,0.02,0.5,2.92,0.01,10, Annual 
+Cucamonga Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.04,9, Annual 
+Denali NP & Pres,0.12,0.05,0.6,0.02,0.14,1.12,0.04,11, Annual 
+Desolation Wilderness,0.12,0.1,0.6,0.02,0.43,1.92,0.01,9, Annual 
+Diamond Peak Wilderness,0.12,0.1,0.6,0.02,0.39,1.67,0.02,9, Annual 
+Dolly Sods Wilderness,0.23,0.1,1.8,0.02,0.43,2.19,0.02,10, Annual 
+Dome Land Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.03,10, Annual 
+Eagle Cap Wilderness,0.12,0.1,0.6,0.02,0.5,2.99,0.04,10, Annual 
+Eagles Nest Wilderness,0.12,0.1,0.6,0.02,0.48,2.12,0,8, Annual 
+Emigrant Wilderness,0.12,0.1,0.6,0.02,0.44,3,0.02,10, Annual 
+Everglades NP,0.23,0.1,1.79,0.02,0.5,3,0.31,11, Annual 
+Fitzpatrick Wilderness,0.12,0.1,0.6,0.02,0.44,1.88,0.01,9, Annual 
+Flat Tops Wilderness,0.12,0.1,0.6,0.02,0.48,2.12,0,8, Annual 
+Galiuro Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Gates of the Mountains Wilderness,0.12,0.1,0.6,0.02,0.35,1.55,0.01,9, Annual 
+Gearhart Mountain Wilderness,0.12,0.1,0.6,0.02,0.39,1.67,0.02,9, Annual 
+Gila Wilderness,0.12,0.1,0.6,0.02,0.5,2.54,0.01,9, Annual 
+Glacier NP,0.11,0.1,0.59,0.02,0.5,3,0.01,11, Annual 
+Glacier Peak Wilderness,0.11,0.1,0.6,0.02,0.19,1.32,0.02,11, Annual 
+Goat Rocks Wilderness,0.12,0.1,0.6,0.02,0.23,1.23,0.03,10, Annual 
+Grand Canyon NP,0.12,0.1,0.6,0.02,0.5,2.88,0.02,9, Annual 
+Grand Teton NP,0.12,0.1,0.6,0.02,0.41,1.92,0.01,9, Annual 
+Great Gulf Wilderness,0.23,0.1,1.7,0.02,0.25,2.65,0.03,11, Annual 
+Great Sand Dunes NP & Pres,0.12,0.1,0.6,0.02,0.5,2.99,0.01,9, Annual 
+Great Smoky Mountains NP,0.23,0.1,1.8,0.02,0.48,2.92,0.02,11, Annual 
+Guadalupe Mountains NP,0.12,0.1,0.6,0.02,0.5,3,0.02,9, Annual 
+Haleakala NP,0.12,0.1,0.57,0.02,0.23,2.93,0.25,10, Annual 
+Hawaii Volcanoes NP,0.12,0.1,0.45,0.02,0.16,1.42,0.29,10, Annual 
+Hells Canyon Wilderness,0.12,0.1,0.6,0.02,0.48,2.97,0.01,11, Annual 
+Hercules-Glades Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.02,11, Annual 
+Hoover Wilderness,0.12,0.1,0.6,0.02,0.5,2.97,0.01,9, Annual 
+Isle Royale NP,0.23,0.1,1.55,0.02,0.24,2.89,0.03,12, Annual 
+James River Face Wilderness,0.23,0.1,1.8,0.02,0.48,3,0.02,11, Annual 
+Jarbidge Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+John Muir Wilderness,0.12,0.1,0.58,0.02,0.46,2.88,0.03,9, Annual 
+Joshua Tree NP,0.12,0.1,0.6,0.02,0.5,3,0.03,10, Annual 
+Joyce Kilmer-Slickrock Wilderness,0.23,0.1,1.8,0.02,0.48,2.92,0.02,11, Annual 
+Kaiser Wilderness,0.12,0.1,0.58,0.02,0.46,2.88,0.03,9, Annual 
+Kalmiopsis Wilderness,0.12,0.1,0.6,0.02,0.2,2.24,0.23,12, Annual 
+Kings Canyon,0.11,0.1,0.6,0.02,0.5,3,0.04,11, Annual 
+La Garita Wilderness,0.12,0.1,0.6,0.02,0.49,2.59,0.01,9, Annual 
+Lassen Volcanic NP,0.12,0.1,0.6,0.02,0.44,1.82,0.01,10, Annual 
+Lava Beds NM,0.12,0.1,0.6,0.02,0.44,2.36,0.01,10, Annual 
+Linville Gorge Wilderness,0.23,0.1,1.8,0.02,0.45,2.6,0.02,11, Annual 
+Lostwood Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.03,11, Annual 
+Lye Brook Wilderness,0.23,0.1,1.59,0.02,0.28,1.79,0.02,11, Annual 
+Mammoth Cave NP,0.23,0.1,1.8,0.02,0.5,2.73,0.02,11, Annual 
+Marble Mountain Wilderness,0.12,0.1,0.52,0.02,0.42,2.08,0.04,10, Annual 
+Maroon Bells-Snowmass Wilderness,0.12,0.1,0.6,0.02,0.48,2.12,0,8, Annual 
+Mazatzal Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Medicine Lake Wilderness,0.12,0.1,0.6,0.02,0.48,3,0.01,11, Annual 
+Mesa Verde NP,0.12,0.1,0.6,0.02,0.5,2.88,0,9, Annual 
+Mingo Wilderness,0.23,0.1,1.83,0.02,0.51,3.05,0.04,12, Annual 
+Mission Mountains Wilderness,0.12,0.1,0.6,0.02,0.44,2.34,0.01,10, Annual 
+Mokelumne Wilderness,0.12,0.1,0.6,0.02,0.43,1.92,0.01,9, Annual 
+Moosehorn Wilderness,0.23,0.1,1.79,0.02,0.23,2.56,0.11,12, Annual 
+Mount Adams Wilderness,0.12,0.1,0.6,0.02,0.23,1.23,0.03,10, Annual 
+Mount Baldy Wilderness,0.12,0.1,0.57,0.02,0.5,2.82,0.01,9, Annual 
+Mount Hood Wilderness,0.12,0.1,0.6,0.02,0.29,1.58,0.05,10, Annual 
+Mount Jefferson Wilderness,0.12,0.1,0.6,0.02,0.26,1.98,0.05,11, Annual 
+Mount Rainier NP,0.12,0.1,0.6,0.02,0.24,2.27,0.07,11, Annual 
+Mount Washington Wilderness,0.12,0.1,0.6,0.02,0.26,1.98,0.05,11, Annual 
+Mount Zirkel Wilderness,0.12,0.1,0.6,0.02,0.45,2.69,0,8, Annual 
+Mountain Lakes Wilderness,0.12,0.1,0.6,0.02,0.39,1.67,0.02,9, Annual 
+North Absaroka Wilderness,0.12,0.1,0.6,0.02,0.43,2.84,0.01,9, Annual 
+North Cascades NP,0.11,0.1,0.6,0.02,0.19,1.32,0.02,11, Annual 
+Okefenokee Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.08,11, Annual 
+Olympic NP,0.12,0.1,0.6,0.02,0.15,1.88,0.14,11, Annual 
+Otter Creek Wilderness,0.23,0.1,1.8,0.02,0.43,2.19,0.02,10, Annual 
+Pasayten Wilderness,0.12,0.1,0.6,0.02,0.33,1.5,0.01,10, Annual 
+Pecos Wilderness,0.12,0.1,0.6,0.02,0.5,2.29,0.03,8, Annual 
+Petrified Forest NP,0.12,0.1,0.6,0.02,0.5,3,0.01,9, Annual 
+Pine Mountain Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Pinnacles NM,0.12,0.1,0.6,0.02,0.35,3,0.19,11, Annual 
+Point Reyes NS,0.12,0.1,0.6,0.02,0.24,3,2.11,12, Annual 
+Presidential Range-Dry River Wilderness,0.23,0.1,1.7,0.02,0.25,2.65,0.03,11, Annual 
+Rawah Wilderness,0.12,0.1,0.6,0.02,0.45,2.69,0,8, Annual 
+Red Rock Lakes Wilderness,0.12,0.1,0.6,0.02,0.41,1.92,0.01,9, Annual 
+Redwood NP,0.12,0.1,0.6,0.02,0.16,3,0.96,11, Annual 
+Rocky Mountain NP,0.12,0.1,0.6,0.02,0.5,2.9,0,9, Annual 
+Roosevelt Campobello International Park,0.23,0.1,1.79,0.02,0.23,2.56,0.11,12, Annual 
+Saguaro NP,0.12,0.1,0.6,0.02,0.5,3,0.06,10, Annual 
+Saint Marks Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.1,11, Annual 
+Salt Creek Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.04,10, Annual 
+San Gabriel Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.04,9, Annual 
+San Gorgonio Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.05,10, Annual 
+San Jacinto Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.05,10, Annual 
+San Pedro Parks Wilderness,0.12,0.1,0.6,0.02,0.5,2.19,0.01,8, Annual 
+San Rafael Wilderness,0.11,0.1,0.6,0.02,0.5,3,0.11,10, Annual 
+Sawtooth Wilderness,0.12,0.08,0.6,0.02,0.41,1.64,0.01,10, Annual 
+Scapegoat Wilderness,0.12,0.1,0.6,0.02,0.44,2.34,0.01,10, Annual 
+Selway-Bitterroot Wilderness,0.12,0.1,0.6,0.02,0.39,1.79,0.02,10, Annual 
+Seney Wilderness,0.23,0.1,1.74,0.02,0.26,1.95,0.02,12, Annual 
+Sequoia NP,0.11,0.1,0.6,0.02,0.5,3,0.04,11, Annual 
+Shenandoah NP,0.23,0.1,1.8,0.02,0.41,2.88,0.02,10, Annual 
+Shining Rock Wilderness,0.23,0.1,1.76,0.02,0.5,1.76,0.02,10, Annual 
+Sierra Ancha Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.02,10, Annual 
+Simeonof Wilderness,0.12,0.1,0.46,0.02,0.13,3,1.26,12, Annual 
+Sipsey Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.04,11, Annual 
+South Warner Wilderness,0.12,0.1,0.6,0.02,0.44,2.36,0.01,10, Annual 
+Strawberry Mountain Wilderness,0.12,0.1,0.6,0.02,0.5,2.99,0.04,10, Annual 
+Superstition Wilderness,0.11,0.1,0.59,0.02,0.5,3,0.02,10, Annual 
+Swanquarter Wilderness,0.23,0.1,1.63,0.02,0.41,3,0.14,12, Annual 
+Sycamore Canyon Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.03,9, Annual 
+Teton Wilderness,0.12,0.1,0.6,0.02,0.41,1.92,0.01,9, Annual 
+Theodore Roosevelt NP,0.12,0.1,0.6,0.02,0.5,3,0.01,11, Annual 
+Thousand Lakes Wilderness,0.12,0.1,0.6,0.02,0.44,1.82,0.01,10, Annual 
+Three Sisters Wilderness,0.12,0.1,0.6,0.02,0.26,1.98,0.05,11, Annual 
+Tuxedni Wilderness,0.12,0.09,0.6,0.02,0.1,2.06,0.38,12, Annual 
+UL Bend Wilderness,0.12,0.1,0.6,0.02,0.45,3,0,11, Annual 
+Upper Buffalo Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.03,11, Annual 
+Ventana Wilderness,0.12,0.1,0.6,0.02,0.35,3,0.19,11, Annual 
+Virgin Islands NP,0.23,0.1,0.35,0.02,0.5,3,0.84,11, Annual 
+Voyageurs NP,0.23,0.1,1.75,0.02,0.26,2.73,0.04,12, Annual 
+Washakie Wilderness,0.12,0.1,0.6,0.02,0.43,2.84,0.01,9, Annual 
+Weminuche Wilderness,0.12,0.1,0.6,0.02,0.49,2.59,0.01,9, Annual 
+West Elk Wilderness,0.12,0.1,0.6,0.02,0.48,2.12,0,8, Annual 
+Wheeler Peak Wilderness,0.12,0.1,0.6,0.02,0.5,2.29,0.03,8, Annual 
+White Mountain Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.03,9, Annual 
+Wichita Mountains Wilderness,0.12,0.1,0.6,0.02,0.5,3,0.03,11, Annual 
+Wind Cave NP,0.12,0.1,0.6,0.02,0.49,2.98,0.01,10, Annual 
+Wolf Island Wilderness,0.23,0.1,1.8,0.02,0.5,3,0.08,11, Annual 
+Yellowstone NP,0.12,0.1,0.6,0.02,0.41,1.92,0.01,9, Annual 
+Yolla Bolly-Middle Eel Wilderness,0.12,0.1,0.52,0.02,0.42,2.08,0.04,10, Annual 
+Yosemite NP,0.12,0.1,0.6,0.02,0.44,3,0.02,10, Annual 
+Zion NP,0.12,0.1,0.6,0.02,0.5,3,0.01,10, Annual 
